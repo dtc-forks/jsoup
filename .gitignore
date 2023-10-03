@@ -9,3 +9,7 @@ target/
 *Thrash*
 bin/
 .vscode/
+
+red4j-data/
+**/cp.txt
+**.java.orig
